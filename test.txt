@@ -1,0 +1,5 @@
+'Screen Size',
+'Weight',
+'Total Hard Disk Size',
+'CPU Hertz',
+'Pixel Density'

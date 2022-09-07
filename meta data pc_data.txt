@@ -1,0 +1,20 @@
+******* pc price dataset (regression) ********
+This is a dataset collected from a PC website, it contains 15320 data points with 12 columns.
+
+Product ID: unique identifier ranging from 0 to 15319
+Brand: Brand of the PC
+Type: PC type, such as notebook, ultrabook
+Screen Size: Size of the PC screen
+Screen Specs: PC screen specs with resolution
+CPU: CPU information of the PC
+RAM: RAM information of the PC
+Hard Disk: Hard Disk information of the PC
+GPU: Graphic card of the PC
+Operating System: Operating system, such as Windows 10, macOS
+Weight: Weight of the PC
+Price: PC price
+
+
+
+
+
